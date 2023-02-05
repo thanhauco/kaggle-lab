@@ -53,3 +53,4 @@ def get_preprocessor():
         ('total_spend', TotalSpendCreator()),
         ('transformer', preprocessor)
     ])
+\n# Refactored for better modularity
