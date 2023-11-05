@@ -1,1 +1,1 @@
-# Kaggle Lab\n\nRepository for Kaggle competition experiments.
+# Kaggle Lab\n\n## Competitions\n- Spaceship Titanic (Top 10%)\n- Store Sales (RMSLE 0.4)\n- ICR (LogLoss 0.2)\n
